@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+nav a {
+  color: #297445;
+  display: inline-block;
+  margin: 0 .625rem;
+}
+
+nav a:hover {
+  text-decoration: none;
+}
